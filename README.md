@@ -12,3 +12,5 @@ This code is intended for use with a prop Chitty Chitty Bang Bang car we produce
 The ocean effects are provided by the Pacifica code released as an example with the FastLED library.
 
 This code is incomplete as a better sky effect is needed (right now it's just a sky blue color but we want to add passing clouds simulation similar to the waves/whitecaps of the Pacifica code.)
+
+A wiring diagram will be provided at a later date.
